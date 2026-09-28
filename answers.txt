@@ -15,11 +15,12 @@ q3 = 01100100
 q4 = 170
 
 # 5. Decode these two ASCII bytes as text: 01001000 01101001
-q5 =
+q5 = H i
 
 # 6. How many different values can one byte hold?
-q6 =
+q6 = 256
 
 # 7. Binary search on a sorted list of 1 000 000 000 (one billion) items: about how many
 #    steps in the worst case? (A whole number; the lecture table has it.)
-q7 =
+q7 = About 30 steps
+log2 (1 000 000 000) = (nearly) 30
