@@ -13,3 +13,16 @@ Replace the example below with your own.
 5  If its number is bigger than "largest so far", remember it as "largest so far"
 6  Go back to line 3
 7  Announce "largest so far"
+
+
+MINE:
+
+
+1. Think of a number between 1 and 100.
+2. Guess 50.
+3. Ask your friend if the number is higher.
+4. If yes, guess a higher number.
+5. If no, guess a lower number.
+6. Ask if the guess is correct.
+7. If it is not correct, go back to line 3.
+8. Say "I found the number!"
