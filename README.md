@@ -31,8 +31,8 @@ Meow: https://scratch.mit.edu/projects/1385763410
 
 ## Part B · Your own project
 
-Project: PASTE-YOUR-PROJECT-LINK-HERE
+Project: https://scratch.mit.edu/projects/1387406728
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-(write here)
+This project is a simple number guessing game. The player tries to guess a random number between 1 and 100, and the character gives hints and dances when the correct number is found. It uses a custom block, variables, a loop, an if/else condition, and a green flag event.
